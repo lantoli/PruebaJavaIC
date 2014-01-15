@@ -9,4 +9,20 @@ public class App {
 		int a = 10;
 		System.out.println("Hello World!");
 	}
+
+	public void pepito() {
+		int a = 10;
+		if (a == 10) {
+			a++;
+		}
+
+	}
+
+	public void juanito() {
+		int a = 10;
+		if (a == 10) {
+			a++;
+		}
+
+	}
 }
