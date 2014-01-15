@@ -11,7 +11,7 @@ public class AppTest
 	/**
 	 * Rigourous Test :-)
 	 */
-	@Test psdfsdublic void testApp() {
-		assertTrue(true);
+	@Test public void testApp() {
+		assertTrue(false);
 	}
 }
